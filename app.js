@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 console.log("add in local");
+=======
+console.log("add in git hub");
+>>>>>>> 689c4c1058b9f1da04a101561f1d7f5882fc7abc
 
 // get input dom
 const userInput = document.getElementById('user-input');
