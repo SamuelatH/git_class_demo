@@ -1,4 +1,4 @@
-
+console.log("add in local");
 
 // get input dom
 const userInput = document.getElementById('user-input');
